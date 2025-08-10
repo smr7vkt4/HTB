@@ -1,6 +1,3 @@
-Here’s a clean and structured `README.md` version of your MariaDB exploitation steps:
-
-````markdown
 # MariaDB Exploitation (HTB Sequel)
 
 ## Steps

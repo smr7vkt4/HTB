@@ -40,13 +40,3 @@ From the accessible tables, extract the flag or any sensitive data:
 ```sql
 SELECT * FROM flag_table;
 ```
-
----
-
-**💡 Note:** Always ensure you have permission before performing database exploitation. This process was done in a controlled **HTB (Hack The Box)** lab environment.
-
-```
-
-If you want, I can also make it **GitHub-styled with badges and a table of contents** so it looks more professional. That way it will stand out in your repo.
-```
-
